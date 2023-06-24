@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Jiyuan Zhang"
+	],
+	"copyright": "Copyright © 2023, Jiyuan Zhang",
+	"description": "Automatic kernel selection and evaluation continuation tool",
+	"license": "MIT",
+	"name": "continuation-boot"
+}
